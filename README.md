@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Retail Sales Analysis Dashboard
 
 A comprehensive, automated data analytics and visualization pipeline written in Python. This project ingests raw retail transactional data, conducts end-to-end data cleansing (including dynamic treatment of custom text-based null values across all columns), computes deep-dive descriptive statistics, and generates an integrated, production-ready 4-chart executive performance dashboard.
